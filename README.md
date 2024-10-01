@@ -1,5 +1,5 @@
 
-## Hi there 👋
+<!--## Hi there 👋-->
 <h1 align="center">Hi 👋, I'm Tadiello Sébastien</h1>
 <h3 align="center">Artificial Intelligence Engineer</h3>
 
