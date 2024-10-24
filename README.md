@@ -1,11 +1,22 @@
 
-<!--## Hi there 👋-->
 <h1 align="center">Hi 👋, I'm Tadiello Sébastien</h1>
+<!--
 <h3 align="center">Artificial Intelligence Engineer</h3>
+-->
+<h3 align="center">Machine Learning Engineer</h3>
 
+- 🤖 I'm passionate about machine learning
 - 📝 I regularly write articles on [https://sebdtsci.github.io/sebastien-tadiello/](https://sebdtsci.github.io/sebastien-tadiello/)
-  
+- 🧑‍🏫 Sharing my knowledge through tutorials and talks
+  - Git : [PDF](https://media.licdn.com/dms/document/media/D4D1FAQHwdYkOHwrq4Q/feedshare-document-pdf-analyzed/0/1701257876041?e=1714608000&v=beta&t=IYHO3I9_ZG0S4ny_R3mrSzt7wRqomyiIcg3TwZlLnLE)
+  - Docker : [PDF](http://media.licdn.com/dms/document/media/D4D1FAQEmeS0n4suErw/feedshare-document-pdf-analyzed/0/1701706798324?e=1714608000&v=beta&t=gJVjXbVGfqs4dt1Mgj4UHAThkOj-lD5NTtXgGKrlfEU)
+  - Docker Compose : [PDF](https://media.licdn.com/dms/document/media/D4E1FAQEawl-MSnH4lA/feedshare-document-pdf-analyzed/0/1704666401296?e=1714608000&v=beta&t=j6868njdqZ8b7cRuH4J1I-Hz5wSqbwYgdWGrHpmw5xU)
+
+<!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebdtsci&show_icons=true&locale=en&layout=compact" alt="sebdtsci" /></p>
+-->
+
+<div align="center">
 
 | |Tools| 
 | :--------------- |:---------------:| 
@@ -15,7 +26,11 @@
 | Machine Learning & AI Libraries |[![Keras](https://img.shields.io/badge/Keras-black?style=flat&logo=keras)](https://keras.io/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)](https://www.tensorflow.org/) [![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv)](https://opencv.org/) [![Huggingface](https://img.shields.io/badge/Hugging_Face-black?style=flat&logo=huggingface)](https://huggingface.co/) [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)](https://pytorch.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-black?style=flat&logo=scikit-learn)](https://scikit-learn.org/)|
 | Scientific Writing & Documentation | [![LaTeX](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/) [![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)]() |
 
+</div>
 
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebdtsci&theme=highcontrast&hide_border=true" alt="sebdtsci" />
+</p>
 
 
 
