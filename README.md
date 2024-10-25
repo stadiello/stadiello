@@ -6,7 +6,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 - 🤖 I'm passionate about machine learning
-- 📝 I regularly write articles on [https://sebdtsci.github.io/sebastien-tadiello/](https://sebdtsci.github.io/sebastien-tadiello/)
+- 📝 I regularly write articles on [my personal blog](https://sebdtsci.github.io/sebastien-tadiello/)
 - 🧑‍🏫 Sharing my knowledge through tutorials and talks
   - Git : [PDF](https://github.com/sebDtSci/deep_learning_TP/blob/main/G.pdf)
   - Docker : [PDF](https://github.com/sebDtSci/deep_learning_TP/blob/main/D.pdf)
