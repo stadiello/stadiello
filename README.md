@@ -14,7 +14,7 @@
   - Docker Compose : [PDF](https://github.com/stadiello/deep_learning_TP/blob/main/DC.pdf)
 
 <!--
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebdtsci&show_icons=true&locale=en&layout=compact" alt="sebdtsci" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stadiello&show_icons=true&locale=en&layout=compact" alt="stadiello" /></p>
 -->
 
 <div align="center">
@@ -31,11 +31,11 @@
 
 <!--
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebdtsci&theme=highcontrast&hide_border=true" alt="sebdtsci" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stadiello&theme=highcontrast&hide_border=true" alt="stadiello" />
 </p>
 
 
 
 
-**sebDtSci/sebDtSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stadiello/stadiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
