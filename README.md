@@ -9,9 +9,9 @@
 - 📝 I regularly write articles on [my personal blog](https://sebdtsci.github.io/sebastien-tadiello/)
     - And on [medium](https://medium.com/@sebastientadiello)
 - 🧑‍🏫 Sharing my knowledge through tutorials and talks
-  - Git : [PDF](https://github.com/sebDtSci/deep_learning_TP/blob/main/G.pdf)
-  - Docker : [PDF](https://github.com/sebDtSci/deep_learning_TP/blob/main/D.pdf)
-  - Docker Compose : [PDF](https://github.com/sebDtSci/deep_learning_TP/blob/main/DC.pdf)
+  - Git : [PDF](https://github.com/stadiello/deep_learning_TP/blob/main/G.pdf)
+  - Docker : [PDF](https://github.com/stadiello/deep_learning_TP/blob/main/D.pdf)
+  - Docker Compose : [PDF](https://github.com/stadiello/deep_learning_TP/blob/main/DC.pdf)
 
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebdtsci&show_icons=true&locale=en&layout=compact" alt="sebdtsci" /></p>
